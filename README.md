@@ -17,7 +17,7 @@ For a more detailed introduction to Air-Hammer, see my original blog post on it 
 
 Screenshots
 -----------
-![Air-Hammer in use](http://192.168.0.102:1313/images/air-hammer-01.jpg)
+![Air-Hammer in use](http://mikeallen.org/images/air-hammer-01.jpg)
 
 
 Installing dependencies
